@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "echohall-week-09",
+    "title": "Building a tile-based dungeon generator that doesn't suck",
+    "subtitle": "Three weeks in, the rooms still felt random — not generated.",
+    "date": "2024-05-02",
+    "readTime": 8,
+    "tags": ["devlog", "echohall", "procgen"],
+    "project": "echohall",
+    "rawUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/devlogs-content/main/devlogs/echohall-week-09.md"
+  }
+]
