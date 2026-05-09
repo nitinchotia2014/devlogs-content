@@ -8,5 +8,15 @@
     "tags": ["devlog", "echohall", "procgen"],
     "project": "echohall",
     "rawUrl": "https://raw.githubusercontent.com/nitinchotia2014/devlogs-content/main/devlogs/echohall-week-09.md"
+  },
+  {
+    "slug": "echohall-week-08",
+    "title": "Echohall's sound propagation system: how I made it work, and how it can be improved",
+    "subtitle": "I implemented a sound propagation system for Echohall, and it works! But it can be improved.",
+    "date": "2024-04-25",
+    "readTime": 8,
+    "tags": ["devlog", "echohall", "procgen"],
+    "project": "echohall",
+    "rawUrl": "https://raw.githubusercontent.com/nitinchotia2014/devlogs-content/main/devlogs/echohall-sound-propagation.md"
   }
 ]
